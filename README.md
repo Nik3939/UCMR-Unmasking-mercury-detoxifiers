@@ -20,10 +20,12 @@ This workshop aims to bring together mercury researchers to develop a public, co
 Date: 18-21 November 2025
 | Date  | Activity |
 | ------------- | ------------- |
-| November 18th  | Bioinformatics hands-on for marky-coco pipeline (by Eric Capo and Nicola Gambardella) and for merAB genes verification (by Isabel Sanz-Sáez)  |
+| November 18th - $${\color{red}\textbf{Optional}}$$ | Bioinformatics hands-on for marky-coco pipeline (by Eric Capo and Nicola Gambardella) and for merAB genes verification (by Isabel Sanz-Sáez)  |
 | November 19th - Morning  |  Flash presentations about research questions related to methylmercury demethylation and mercury reduction processes  |
 | November 19th - Afternoon  | Hands-on on bioinformatics for database creation  |
 | November 20th - Morning  | Working groups on different aspects of the new database  |
 | November 20th - Afternoon  | Presentation of the outputs from Day 1 Working Groups  |
 | November 21st - Morning  | Paper drafting process  |
 
+> [!IMPORTANT]
+> As indicated in the timetable, the hands-on on November 18th is optional to the participation to the workshop.
