@@ -10,7 +10,7 @@ This workshop aims to bring together mercury researchers to develop a public, co
 + Eric Capo (EMG)
 ### Host institution:
 + Umea University ([website here](https://www.umu.se/en/))
-+ Capo Lab ([website here](https://ericcapo.github.io/lab/)
++ Capo Lab ([website here](https://ericcapo.github.io/lab/))
 
 ## Program 
 > [!IMPORTANT]
