@@ -6,11 +6,11 @@ This workshop aims to bring together mercury researchers to develop a public, co
 
 ## Organizers and organizing infrastructure
 ### Organizers: 
-+ Isabel Sanz-Sáez (Kemi), 
++ Isabel Sanz-Sáez (Umeå University, Umeå, Sweden), 
 + Nicola Gambardella (CIIMAR, Portugal), 
-+ Eric Capo (EMG)
++ Eric Capo (Umeå University, Umeå, Sweden)
 ### Host institution:
-+ Umea University ([website here](https://www.umu.se/en/))
++ Umeå University ([website here](https://www.umu.se/en/))
 + Capo Lab ([website here](https://ericcapo.github.io/lab/))
 
 ## Program 
