@@ -1,5 +1,5 @@
 # UMD Unmasking Mercury Detoxifiers
-<img src="/assets/images/UCMR_logo.png" alt="UCMR logo">
+<img src="/assets/images/UMD_logo.png" alt="UMD logo">
 
 ## Summary of the WorkShop
 This workshop aims to bring together mercury researchers to develop a public, consensus database of merAB genes and implement new bioinformatic tools for their correct detection in omics datasets. The outcomes will include an openly accessible database and pipeline, with results to be published in high-impact scientific journals.
