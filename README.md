@@ -1,4 +1,4 @@
-# UCMR Unmasking mercury detoxifiers
+# UMD Unmasking Mercury Detoxifiers
 <img src="/assets/images/UCMR_logo.png" alt="UCMR logo">
 
 ## Summary of the WorkShop
