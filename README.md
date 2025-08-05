@@ -1,4 +1,4 @@
-# Workshop "UMD: Unmasking Mercury Dexoxifiers" <br> 18-21 Nov 2025, Umeå, Sweden.
+# Workshop "UMD: Unmasking Mercury Detoxifiers" <br> 18-21 Nov 2025, Umeå, Sweden.
 <img src="/assets/images/UMD_logo.png" alt="UMD logo">
 
 ## Summary of the WorkShop
